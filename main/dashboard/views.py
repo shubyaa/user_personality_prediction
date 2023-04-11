@@ -25,6 +25,7 @@ from .Algorithms import questionare as qt
 
 
 # Create your views here.
+#MBTI traits
 def detailed_personality(trait) :
     
     if trait=="ISTJ":
